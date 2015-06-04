@@ -1,0 +1,17 @@
+﻿已經開始建置於 2013/10/7 下午 08:56:28。
+     1>節點 2 (build 目標) 上的專案 "D:\研究生活\搶鮮大賽2013\opencv(視訊運動範圍偵測)\opencv(視訊運動範圍偵測)\opencv(視訊運動範圍偵測).vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\opencv(視訊運動範圍偵測).unsuccessfulbuild"。
+       ClCompile:
+         所有輸出都是最新的。
+       Link:
+         所有輸出都是最新的。
+         opencv(視訊運動範圍偵測).vcxproj -> D:\研究生活\搶鮮大賽2013\opencv(視訊運動範圍偵測)\Debug\opencv(視訊運動範圍偵測).exe
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\opencv(視訊運動範圍偵測).unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\opencv(視訊運動範圍偵測).lastbuildstate"。
+     1>專案 "D:\研究生活\搶鮮大賽2013\opencv(視訊運動範圍偵測)\opencv(視訊運動範圍偵測)\opencv(視訊運動範圍偵測).vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.06

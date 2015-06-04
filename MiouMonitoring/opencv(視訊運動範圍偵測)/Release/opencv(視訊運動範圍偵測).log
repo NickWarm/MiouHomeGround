@@ -1,0 +1,15 @@
+﻿已經開始建置於 2013/10/7 下午 08:50:42。
+     1>節點 2 (build 目標) 上的專案 "D:\研究生活\搶鮮大賽2013\opencv(視訊運動範圍偵測)\opencv(視訊運動範圍偵測)\opencv(視訊運動範圍偵測).vcxproj"。
+     1>PrepareForBuild:
+         正在建立目錄 "D:\研究生活\搶鮮大賽2013\opencv(視訊運動範圍偵測)\Release\"。
+       InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Release\opencv(視訊運動範圍偵測).unsuccessfulbuild"。
+       ClCompile:
+         d:\program files\Microsoft Visual Studio2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "opencv(視訊運動範圍偵測).cpp"
+         opencv(視訊運動範圍偵測).cpp
+     1>opencv(視訊運動範圍偵測).cpp(6): fatal error C1083: 無法開啟包含檔案: 'opencv/cv.h': No such file or directory
+     1>專案 "D:\研究生活\搶鮮大賽2013\opencv(視訊運動範圍偵測)\opencv(視訊運動範圍偵測)\opencv(視訊運動範圍偵測).vcxproj" (build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.29
